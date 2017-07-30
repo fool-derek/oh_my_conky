@@ -1,7 +1,7 @@
 # Oh My Conky
 
 ## Screen Picture
-![intro](https://github.com/DerekChenGit/DerekChenGitShareFiles/blob/master/OhMyConky.png "intro")
+![intro](https://raw.githubusercontent.com/wiki/DerekChenGit/oh_my_conky/images/oh_my_conky.gif "intro")
 
 ## How to Install
 ```bash
